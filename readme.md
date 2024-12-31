@@ -5,7 +5,7 @@ Code and trained model for our paper **PPAC: Predicting Protein-Protein Affinity
 <br>
 
 ## Installation
-You can download PPAC according to the following commands.
+PPAC can be downloaded by following the commands below.
 ```bash
 git clone https://github.com/zhangzhangleilei/PPAC.git
 cd PPAC
