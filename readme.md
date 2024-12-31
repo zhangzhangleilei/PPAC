@@ -1,5 +1,5 @@
 # PPAC
-Code and trained model for our paper PPAC: Predicting Protein-Protein Affinity Changes Induced by Amino Acid Mutations Using Protein Large Models**
+Code and trained model for our paper **PPAC: Predicting Protein-Protein Affinity Changes Induced by Amino Acid Mutations Using Protein Large Models**
 ![Overall FrameWork](https://github.com/zhangzhangleilei/PPAC/blob/main/fig.png)
 
 <br>
