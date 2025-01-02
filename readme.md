@@ -49,11 +49,11 @@ For more detailed operations, please refer to [generate_features](https://github
 ## Usage[calculate ΔΔG]
 You can calculate the change in protein binding affinity after mutation through the following code.
 ```bash
-python calculate_SGAR-ANN.py
+python calculate_SGAR-ANN.py [model_path] [save_path] [test_csv] 
 
-python calculate_ESm-ANN.py
+python calculate_ESm-ANN.py [model_path] [save_path] [test_csv] 
 
-python calculate_Prot-ANN.py
+python calculate_Prot-ANN.py [model_path] [save_path] [test_csv] 
 ```
 
 <br>
