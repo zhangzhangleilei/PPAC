@@ -1,5 +1,5 @@
 import numpy as np
-from ann_model_20240519 import ProteinNet
+from model import ProteinNet
 import pandas as pd
 import os
 from sklearn.metrics import accuracy_score,mean_squared_error
